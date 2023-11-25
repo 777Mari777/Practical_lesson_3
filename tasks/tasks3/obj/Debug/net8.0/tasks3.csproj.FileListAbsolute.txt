@@ -1,0 +1,14 @@
+C:\Users\Maria\Desktop\tasks\tasks3\bin\Debug\net8.0\tasks3.exe
+C:\Users\Maria\Desktop\tasks\tasks3\bin\Debug\net8.0\tasks3.deps.json
+C:\Users\Maria\Desktop\tasks\tasks3\bin\Debug\net8.0\tasks3.runtimeconfig.json
+C:\Users\Maria\Desktop\tasks\tasks3\bin\Debug\net8.0\tasks3.dll
+C:\Users\Maria\Desktop\tasks\tasks3\bin\Debug\net8.0\tasks3.pdb
+C:\Users\Maria\Desktop\tasks\tasks3\obj\Debug\net8.0\tasks3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\tasks\tasks3\obj\Debug\net8.0\tasks3.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\tasks\tasks3\obj\Debug\net8.0\tasks3.AssemblyInfo.cs
+C:\Users\Maria\Desktop\tasks\tasks3\obj\Debug\net8.0\tasks3.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\tasks\tasks3\obj\Debug\net8.0\tasks3.dll
+C:\Users\Maria\Desktop\tasks\tasks3\obj\Debug\net8.0\refint\tasks3.dll
+C:\Users\Maria\Desktop\tasks\tasks3\obj\Debug\net8.0\tasks3.pdb
+C:\Users\Maria\Desktop\tasks\tasks3\obj\Debug\net8.0\tasks3.genruntimeconfig.cache
+C:\Users\Maria\Desktop\tasks\tasks3\obj\Debug\net8.0\ref\tasks3.dll
